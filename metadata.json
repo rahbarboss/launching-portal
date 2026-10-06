@@ -1,0 +1,6 @@
+{
+  "name": "ANJUMAN-E-HUDA — Launch Experience",
+  "description": "A cinematic, highly polished interactive animated launch experience for ANJUMAN-E-HUDA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
